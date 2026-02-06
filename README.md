@@ -22,7 +22,7 @@ This project fulfills the requirement of demonstrating a real-world use case whe
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. Documents are loaded from a text file.
 2. Each document is converted into an embedding using `sentence-transformers`.
@@ -49,7 +49,7 @@ Display Results
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python
 - Endee (Open Source Vector Database)
